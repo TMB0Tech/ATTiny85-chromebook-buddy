@@ -12,7 +12,7 @@ Howdy! This is the repository for the AISD-techs that allows them to update the 
          <li><a href="#coding">Adding Code To Your Buddy</a></li>
 </ol>
 <div id="hardware">
-         <h2>Hardware Needed<\h2>
+         <h2>Hardware Needed</h2>
          <body>
                   <ul>
                            <li>A computer that runs Ether MacOS, Ubuntu, Windows8.1, with one free and functional USB 2.0 port</li>
@@ -22,16 +22,16 @@ Howdy! This is the repository for the AISD-techs that allows them to update the 
                            
 </div>
 <div id="download">
-         <h2>Downloading The Software Needed<\h2>
+         <h2>Downloading The Software Needed</h2>
 </div>
 <div id="compile">
-         <h2>How To Compile And Upload The Code To Your Buddy<\h2>
+         <h2>How To Compile And Upload The Code To Your Buddy</h2>
 </div>
 <div id="use">
-         <h2>How To Use A Test Buddy<\h2>
+         <h2>How To Use A Test Buddy</h2>
 </div>
 <div id="coding">
-         <h2>Adding Code To Your Buddy<\h2>
+         <h2>Adding Code To Your Buddy</h2>
 </div>
          
                   
