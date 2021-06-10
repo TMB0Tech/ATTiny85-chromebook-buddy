@@ -3,7 +3,7 @@
 Howdy! This is the repository for the AISD-techs that allows them to update the chromebook buddies. In this repository are the files needed to run the powerwasher buddy and the tester buddy. Below are instructions on how to obtain, download, compile, use, and add code to the chromebook buddies.
 </body>
 
-
+<h3>Table Of Content</h3>
 <ol>
          <li><a href="#hardware">Hardware Needed</a></li>
          <li><a href="#download">Downloading</a></li>
