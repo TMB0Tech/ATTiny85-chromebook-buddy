@@ -6,7 +6,7 @@ Howdy! This is the repository for the AISD-techs that allows them to update the 
 
 
 
-<a name="Getting a ATTiny85")
+<a name="Getting a ATTiny85">
 
    
    
@@ -34,6 +34,15 @@ Howdy! This is the repository for the AISD-techs that allows them to update the 
    
    
    
+   s
+   
+   
+   
+   
+   s
+   
+   
+   s
    
    
    
@@ -41,21 +50,12 @@ Howdy! This is the repository for the AISD-techs that allows them to update the 
    
    
    
+   sd
    
    
    
    
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+   s
    
 #Getting a ATTiny85
