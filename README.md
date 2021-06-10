@@ -16,7 +16,7 @@ Howdy! This is the repository for the AISD-techs that allows them to update the 
          <body>
                   <ul>
                            <li>A computer that runs Ether MacOS, Ubuntu, Windows8.1, with one free and functional USB 2.0 port</li>
-                           <li>A ATTiny85 with usb plug, can be found <a href="https://www.amazon.com/s?k=attiny85+usb&ref=nb_sb_noss_2">here</a></li>
+                           <li>A ATTiny85 with usb plug, can be found <a href="https://www.amazon.com/s?k=attiny85+usb&ref=nb_sb_noss_2" target="_blank" rel="noreferrer noopener">here</a></li>
                   </ul>
          </body>
                            
