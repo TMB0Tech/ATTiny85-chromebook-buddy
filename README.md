@@ -4,13 +4,13 @@ Howdy! This is the repository for the AISD-techs that allows them to update the 
 </body>
 
 
-
-<a href="#hardware">Hardware Needed</a> 
-<a href="#download">Downloading</a>
-<a href="#compile">Compiling</a>
-<a href="#use">How To Use</a>
-<a href="#coding">Adding Code To Your Buddy</a>
-
+<ol>
+         <li><a href="#hardware">Hardware Needed</a></li>
+         <li><a href="#download">Downloading</a></li>
+         <li><a href="#compile">Compiling</a></li>
+         <li><a href="#use">How To Use</a></li>
+         <li><a href="#coding">Adding Code To Your Buddy</a></li>
+</ol>
 <div id="hardware">
          <h2>Hardware Needed<\h2>
          <body>
