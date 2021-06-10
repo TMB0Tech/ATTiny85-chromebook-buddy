@@ -6,7 +6,7 @@ Howdy! This is the repository for the AISD-techs that allows them to update the 
 
 
 
-<a href="attiny85">How to get </a> 
+<a href="#attiny85">hardware needed</a> 
 
 
 <div id="attiny85">
