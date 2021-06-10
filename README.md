@@ -27,7 +27,7 @@ Howdy! This is the repository for the AISD-techs that allows them to update the 
          <h2>Software Needed</h2>
          <ul>
                   <li><a href="https://www.arduino.cc/en/software">Arduino IDE</a></li>
-                  <li><a href="https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip">Digistump Drivers (Windows) Only</a></li>
+                  <li><a href="https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip">Digistump Drivers (Windows Only)</a></li>
                   <li>A zip archive of this repository</li>
          </ul>
 </div>
