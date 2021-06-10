@@ -6,56 +6,10 @@ Howdy! This is the repository for the AISD-techs that allows them to update the 
 
 
 
-<a name="Getting a ATTiny85">ATTiny85</a>
+<a href="attiny85">How to get </a> 
 
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   s
-   
-   
-   
-   
-   s
-   
-   
-   s
-   
-   
-   
-   
-   
-   
-   
-   sd
-   
-   
-   
-   
-   
-   s
-   
-#Getting a ATTiny85
+
+<div id="attiny85">
+         <h2>Getting a ATTiny85<h2>
+</div>
+
