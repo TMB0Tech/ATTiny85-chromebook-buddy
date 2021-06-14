@@ -3,6 +3,7 @@
 //You will need to enter valid login details below before uploading.
 static char* login_string = ""; // username@email
 static char* password_string = ""; //password
+static unsigned int loadDelay = 60; //How long the USB device should wait for the computer to load after logging in.
 
 void setup() {
   // put your setup code here, to run once
@@ -29,7 +30,8 @@ void setup() {
   wait(6); //reduced from 10 seconds to 6 seconds to help speed things up.
   DigiKeyboard.write(password_string); 
   press(KEY_ENTER);
-  wait(20);
+  
+  wait(loadDelay);
 
   //crosh battery test
   //opencrosh();
