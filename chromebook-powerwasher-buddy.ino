@@ -5,7 +5,7 @@
 //The ssid of the network that the chromebook connects to, this is needed.
 static char* ssid= ""; //Wifi SSID
 
-static int tos =                      30;//Time to wait for the ToS, if too soon, system will shutdown or bug out
+static int tos =                      30;//Time to wait for the ToS, if too soon, system will shutdown or bug out NOT USED
 static int start_delay_powerwash =    1; //time in seconds to wait for the firmware to enter powerwash in the host
 void setup() {
 
@@ -29,10 +29,11 @@ void setup() {
   spamButton(43,3); //tab 3 times
   press(KEY_SPACE);
 
+  // Commented out due to chromeos button layout changes
   //leave wifi menu
-  wait(6);
-  spamButton(43,2);
-  press(KEY_SPACE);
+  //wait(6);
+  //spamButton(43,2);
+  //press(KEY_SPACE);
   
   //ToS
   //wait(tos);   
